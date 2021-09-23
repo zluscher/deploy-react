@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,gBAGE,UAAW,CACX,WAAY,CACZ,QAAS,CACT,SAAU,CACV,qCACF","file":"main.a8c5f3db.chunk.css","sourcesContent":["html,\r\nbody,\r\n#root {\r\n  width: 100%;\r\n  height: 100%;\r\n  margin: 0;\r\n  padding: 0;\r\n  background: radial-gradient(white, #ddd);\r\n}\r\n"]}
